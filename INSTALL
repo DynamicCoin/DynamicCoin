@@ -1,0 +1,9 @@
+Building DynamicCoin
+
+See doc/readme-qt.rst for instructions on building DynamicCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DynamicCoin.
+
+See doc/build-*.txt for instructions on building dynamiccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DynamicCoin.
